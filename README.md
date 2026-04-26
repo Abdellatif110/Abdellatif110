@@ -2,7 +2,10 @@
 
 **Full Stack Web Developer** | Building modern and scalable web applications  
 
-📍 Marrakech, Morocco  
+📍 Based in Marrakech, Morocco  
+🏠 From Al Hoceima
+
+🎓 ISTA OFPPT – Digital Development (Al Hoceima)
 🎓 JobInTech – Maroc Ynov Campus EFET  
 
 I specialize in creating clean, efficient, and user-focused web applications using modern technologies.  
