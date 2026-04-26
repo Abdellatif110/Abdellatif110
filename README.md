@@ -17,7 +17,7 @@ Strong problem-solving skills with the ability to work independently and collabo
 
 ### 🎨 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,typescript" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react" />
 </p>
 
 ### ⚙️ Backend
