@@ -99,8 +99,11 @@ AI-powered project built during CleverCube AI internship
 
 ## 🎓 Education
 
-**Diploma in Digital Development** – OFPPT (2021–2023)  
-**Baccalaureate in Experimental Sciences (Physics)** – 2020
+**Diploma in Digital Development**  
+ISTA OFPPT | 2021 – 2023  
+
+**Baccalaureate in Experimental Sciences (Physics)**  
+2021
 
 ---
 
