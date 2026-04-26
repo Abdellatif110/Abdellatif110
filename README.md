@@ -122,4 +122,6 @@ AI-powered project built during CleverCube AI internship
 
 ---
 
-🎯 *Learning, coding, and growing one step at a time.*
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=20&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Feel+free+to+explore+my+projects+🚀;Let's+build+something+amazing+together!" />
+</p>
