@@ -16,16 +16,17 @@ Strong problem-solving skills with the ability to work independently and collabo
 ## 🛠️ What I Work With
 
 **Frontend**  
-HTML, CSS, JavaScript, React.js
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
 
 **Backend**  
-PHP (Laravel), Python, Node.js / Express.js
+<img src="https://skillicons.dev/icons?i=php,laravel,python,nodejs,express" />
 
 **Databases**  
-MySQL, SQL, MongoDB
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 
 **Other Tools**  
-Git & GitHub, REST APIs, JWT, API Integration
+<img src="https://skillicons.dev/icons?i=git,github" />  
+REST APIs • JWT • API Integration
 
 ---
 
