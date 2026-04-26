@@ -13,15 +13,27 @@ Strong problem-solving skills with the ability to work independently and collabo
 
 ---
 
-## 🛠️ What I Work With
+## 🛠️ Tech Stack
 
-**Frontend**  : <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,typescript" />
+### 🎨 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,typescript" />
+</p>
 
-**Backend**  : <img src="https://skillicons.dev/icons?i=php,laravel,python,nodejs,express" />
+### ⚙️ Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python" />
+</p>
 
-**Databases**  : <img src="https://skillicons.dev/icons?i=sql,mysql,mongodb,supabase" />
+### 🗄️ Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=sql,mysql,mongodb,supabase" />
+</p>
 
-**Other Tools**  : <img src="https://skillicons.dev/icons?i=git,github" />  
+### 🔧 Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
 
 REST APIs • JWT • API Integration
 
