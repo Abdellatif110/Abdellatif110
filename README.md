@@ -117,11 +117,20 @@ ISTA OFPPT | 2021 – 2023
 
 ## 📫 Contact Me
 
-📞 Phone: +212 6 04 98 90 31  
-📧 Email: ighil.abdellatif1@gmail.com  
-🔗 LinkedIn: [linkedin.com/in/abdellatif-ighil-236565282](https://www.linkedin.com/in/abdellatif-ighil-236565282)  
-🏠 Portfolio: [portfolio-pro-indol.vercel.app](https://portfolio-pro-indol.vercel.app/)  
-🐙 GitHub: [github.com/Abdellatif110](https://github.com/Abdellatif110)
+<p align="center">
+  <a href="mailto:ighil.abdellatif1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/abdellatif-ighil-236565282">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://portfolio-pro-indol.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge&logo=vercel"/>
+  </a>
+  <a href="https://github.com/Abdellatif110">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
 ---
 
