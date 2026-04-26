@@ -34,7 +34,7 @@ Git & GitHub, REST APIs, JWT, API Integration
 **Operating Media S.A.R.L** – Email Marketing & HTML/CSS Client Site Adaptation  
 *Internship – 7 months*
 
-**Regional Education Academy (Tangier)** – Built a web app for birth license management and administrative statistics  
+**Regional Education Academy (Tanger–Tétouan–Al Hoceima)** – Built a web app for birth license management and administrative statistics  
 *Internship – 1 month*
 
 **Currently at CleverCube AI** – Deepening my skills in web development and building real-world projects  
