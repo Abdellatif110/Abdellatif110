@@ -123,5 +123,5 @@ AI-powered project built during CleverCube AI internship
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=20&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Feel+free+to+explore+my+projects+🚀;Let's+build+something+amazing+together!" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=000000&size=28&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!;Feel+free+to+explore+my+projects+🚀;Let%27s+build+something+amazing+together!" />
 </p>
