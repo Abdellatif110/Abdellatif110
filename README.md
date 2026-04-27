@@ -1,37 +1,54 @@
-# 👋 Hello, I'm Abdellatif Ighil
+<!-- ===== HEADER ===== -->
+<h1 align="center">👋 Hi, I'm Abdellatif Ighil</h1>
 
-**Full Stack Web Developer** | Building modern and scalable web applications  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer+🚀;React+•+Node.js+•+Laravel;Building+Scalable+Web+Applications;Open+to+Opportunities+👀" />
+</p>
 
-📍 Based in Marrakech, Morocco  
-🏠 From Al Hoceima
+<p align="center">
+  <a href="https://portfolio-pro-indol.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="https://linkedin.com/in/abdellatif-ighil-236565282">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:ighil.abdellatif1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-🎓 ISTA OFPPT – Digital Development (Al Hoceima)
-🎓 JobInTech – Maroc Ynov Campus EFET  
+---
 
-I specialize in creating clean, efficient, and user-focused web applications using modern technologies.  
-Strong problem-solving skills with the ability to work independently and collaboratively.
+## 🚀 About Me
+
+- 📍 Based in **Marrakech, Morocco**
+- 🏠 Originally from **Al Hoceima**
+- 🎓 ISTA OFPPT — Digital Development  
+- 🎓 JobInTech — Maroc Ynov Campus EFET  
+- 💡 I build clean, scalable, and user-focused web applications  
+- 🤝 Open to internships & junior opportunities  
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 🎨 Frontend
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react" />
 </p>
 
 ### ⚙️ Backend
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python" />
 </p>
 
 ### 🗄️ Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=sql,mysql,mongodb,supabase" />
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,supabase" />
 </p>
 
 ### 🔧 Tools
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
@@ -41,77 +58,76 @@ REST APIs • JWT • API Integration
 
 ## 💼 Work Experience
 
-**Operating Media S.A.R.L** – Email Marketing & HTML/CSS Client Site Adaptation  
-*Internship – 7 months*
+**CleverCube AI — Full Stack Internship**  
+*Mar 2026 → Jun 2026*  
+- Developed real-world full stack applications  
+- Built MVP for **SmiyliGo** → https://smiyligoweb.up.railway.app/  
+- Collaborated on modern web projects & improved architecture  
 
-**Regional Education Academy (Tanger–Tétouan–Al Hoceima)** – Built a web app for birth license management and administrative statistics  
-*Internship – 1 month*
+**Operating Media S.A.R.L — Web Support Intern**  
+*7 months*  
+- Email marketing & client website adaptation  
 
-**Currently at CleverCube AI** – Deepening my skills in web development and building real-world projects  
-*Internship – 3 months (17.03.2026 → 17.06.2026)*  
+**Regional Education Academy — Developer Intern**  
+*1 month*  
+- Built a web app for birth license management & statistics  
 
-- Working on modern web development practices and full stack applications  
-- Contributed to building an MVP version of **SmiyliGo**: https://smiyligoweb.up.railway.app/  
-- Collaborating on upcoming projects and improving technical skills
 ---
 
-## 🚀 Personal Projects
+## 🚀 Featured Projects
 
-**🛒 E-commerce Platform**  
-Frontend shopping interface with responsive design and product browsing  
+🛒 **E-commerce Platform**  
+Responsive shopping interface with product browsing and modern UI  
 
-**🌦️ Weather App**  
+🌦️ **Weather App**  
 Real-time weather application using external APIs  
 
-**🎓 Study Management System**  
-React.js application for managing student data and academic statistics  
+🎓 **Study Management System**  
+React app for managing students and academic statistics  
 
-**👤 Portfolio PRO**  
-Modern personal portfolio built with React.js  
+📚 **Book Store (Full Stack)**  
+Backend-driven bookstore using Node.js & Express with REST API  
 
-**📚 Book Store (Full Stack)**  
-Backend-driven bookstore using Node.js and Express.js  
-
-**🐾 Animals CRUD**  
-CRUD application using HTML, CSS, and JavaScript  
-
-**🧠 SmiyliGo (MVP)**  
-AI-powered project built during CleverCube AI internship  
+🧠 **SmiyliGo (MVP)**  
+AI-powered project developed during CleverCube AI internship  
 
 ---
 
-👉 You can find more projects on my GitHub profile.
+## 📊 GitHub Activity
 
-🌐 Live Portfolio: [portfolio-pro-indol.vercel.app](https://portfolio-pro-indol.vercel.app/)  
-🐙 GitHub: [github.com/Abdellatif110](https://github.com/Abdellatif110)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdellatif110&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdellatif110&layout=compact&hide_border=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdellatif110&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 📜 Certifications
 
-**React JS – Complete Guide for Frontend Web Development**  
-*Udemy*
-
-**CSS, JS, PHP and Python Programming – All in One Course**  
-*Udemy*
+- React JS — Complete Guide (Udemy)  
+- CSS, JS, PHP & Python — All in One Course (Udemy)  
 
 ---
 
 ## 🎓 Education
 
-**Diploma in Digital Development**  
-ISTA OFPPT | 2021 – 2023  
+🎓 **Diploma in Digital Development**  
+ISTA OFPPT — 2021–2023  
 
-**Baccalaureate in Experimental Sciences (Physics)**  
-2021
+🎓 **Baccalaureate in Experimental Sciences (Physics)**  
+2021  
 
 ---
 
 ## 🌐 Languages
 
-**Arabic** – Native  
-**English** – Good  
-**French / German** – Beginner
+- Arabic — Native  
+- English — Good  
+- French / German — Beginner  
 
 ---
 
@@ -135,5 +151,5 @@ ISTA OFPPT | 2021 – 2023
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=000000&size=28&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!;Feel+free+to+explore+my+projects+🚀;Let%27s+build+something+amazing+together!" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!;Feel+free+to+explore+my+projects+🚀;Let's+build+something+amazing+together!" />
 </p>
