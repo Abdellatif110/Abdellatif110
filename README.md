@@ -105,10 +105,6 @@ AI-powered project developed during CleverCube AI internship
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abdellatif110&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abdellatif110&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 ## 📜 Certifications
