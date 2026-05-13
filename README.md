@@ -1,20 +1,13 @@
 <!-- ===== HEADER ===== -->
- _____                                                                     _____ 
-( ___ )                                                                   ( ___ )
- |   |~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|   | 
- |   |   ___  _         _      _ _       _   _  __   _____      _     _ _  |   | 
- |   |  / _ \| |       | |    | | |     | | (_)/ _| |_   _|    | |   (_) | |   | 
- |   | / /_\ \ |__   __| | ___| | | __ _| |_ _| |_    | |  __ _| |__  _| | |   | 
- |   | |  _  | '_ \ / _` |/ _ \ | |/ _` | __| |  _|   | | / _` | '_ \| | | |   | 
- |   | | | | | |_) | (_| |  __/ | | (_| | |_| | |    _| || (_| | | | | | | |   | 
- |   | \_| |_/_.__/ \__,_|\___|_|_|\__,_|\__|_|_|    \___/\__, |_| |_|_|_| |   | 
- |   |                                                     __/ |           |   | 
- |   |                                                    |___/            |   | 
- |___|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|___| 
-(_____)                                                                   (_____)
+
+<h1 align="center">Hi 👋, I'm Abdellatif</h1>
+
+<h3 align="center">
+Full Stack Web Developer 🚀
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer+🚀;React+•+Node.js+•+Laravel;Building+Scalable+Web+Applications;Open+to+Opportunities+👀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;React+•+Node.js+•+Laravel;Building+Scalable+Web+Applications;Open+to+Internships+and+Opportunities" />
 </p>
 
 <p align="center">
