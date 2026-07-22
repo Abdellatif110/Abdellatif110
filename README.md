@@ -1,3 +1,5 @@
+<img width="1710" height="920" alt="image" src="https://github.com/user-attachments/assets/07b9379c-e293-4cc9-ab45-605413e86449" />
+
 <!-- ===== HEADER ===== -->
 
 <h1 align="center">Hi 👋, I'm Abdellatif</h1>
