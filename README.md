@@ -1,4 +1,20 @@
-<img width="1710" height="920" alt="image" src="https://github.com/user-attachments/assets/07b9379c-e293-4cc9-ab45-605413e86449" />
+<p align="center">
+
+<a href="https://github.com/Abdellatif110">
+
+<img
+src="https://github.com/user-attachments/assets/811672b3-9ecb-496b-bea2-fd3e87b2ac37#gh-light-mode-only"
+alt="Light Mode"
+width="100%" />
+
+<img
+src="https://github.com/user-attachments/assets/07b9379c-e293-4cc9-ab45-605413e86449#gh-dark-mode-only"
+alt="Dark Mode"
+width="100%" />
+
+</a>
+
+</p>
 
 <!-- ===== HEADER ===== -->
 
